@@ -34,7 +34,7 @@
         <plugin>
       <groupId>com.hello2morrow.sonargraph</groupId>
       <artifactId>maven-sonargraph-plugin</artifactId>
-      <version>Insert the version number here, e.g. 7.2.0</version>
+      <version>7.2.0</version>
       <configuration>
        <!-- configuration properties are described below - 
 
